@@ -1,6 +1,11 @@
 # SG version of hailo-apps-inra/hailo_apps/hailo_app_python/apps/detection.py
 # adds FRC network tables to send data to RoboRio
 
+# The context for this code is https://github.com/hailo-ai/hailo-rpi5-examples
+# The repository is now (11/19/2026) outdated
+# more up to date examples are at https://github.com/hailo-ai/hailo-apps
+# For more info on Hailo chip and sofware see https://hailo.ai
+
 # region imports
 # Standard library imports
 
